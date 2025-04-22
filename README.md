@@ -27,3 +27,6 @@ This project involves creating an interactive and informative Hotel Booking Canc
 
 ## Analyze Trends: 
 * Use the charts and pivot tables to identify patterns, such as which months or guest types have the highest cancellation rates.
+
+## Screenshorts
+![hostel Booking Cancellation](https://github.com/user-attachments/assets/1b3caaec-0179-4104-adc0-7166d8e7743a)
