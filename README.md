@@ -22,6 +22,8 @@ This project involves creating an interactive and informative Hotel Booking Canc
 * Total cancellations
 
 
-## Visualize Data: The clustered column chart provides insights into cancellations over time or by category. The pie chart shows the distribution of cancellations across different categories.
+## Visualize Data: 
+* The clustered column chart provides insights into cancellations over time or by category. The pie chart shows the distribution of cancellations across different categories.
 
-## Analyze Trends: Use the charts and pivot tables to identify patterns, such as which months or guest types have the highest cancellation rates.
+## Analyze Trends: 
+*Use the charts and pivot tables to identify patterns, such as which months or guest types have the highest cancellation rates.
